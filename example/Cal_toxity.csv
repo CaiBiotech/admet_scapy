@@ -1,0 +1,5 @@
+ID,Origin smiles,Ames toxicity,Max tolerated dose,hERG I inhibitor,hERG II inhibitor,Oral rat acute toxicity,Hepatotoxicity,Skin sensitisation,Minnow toxicity
+Metronidazole,Cc1ncc([N+](=O)[O-])n1CCO,Yes,0.235,No,No,1.938,No,No,2.524
+Dimetridazole,Cc1ncc([N+](=O)[O-])n1C,Yes,0.141,No,No,2.023,No,Yes,2.135
+Secnidazole,Cc1ncc([N+](=O)[O-])n1CC(C)O,Yes,0.22,No,No,1.966,No,No,2.408
+Tinidazole,CCS(=O)(=O)CCn1c([N+](=O)[O-])cnc1C,Yes,0.498,No,No,2.192,No,No,1.483
